@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'henika_company',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'DR2n15KnTj2Ui400qBJ6zA6Brh6BR8GBF6KDSweL5oR4rdJrZUNmEUvtQ9WAF1sy',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2022-01-21',
+    'locale' => 'fr-FR',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'JfPdBCfqyP9uPBtBXM4JmZJouwfMW2s2Kej89uzd63j5hnvUQaEY7ZAunpVF26og',
+    'cookie_iv' => 'pe9tw15jm12NooV71Wi3zk8u3IHZLgX2',
+    'new_cookie_key' => 'def00000a4011298fcaa92d18be3a8efc129109a4604a9a109c408b5080c37c7fad9b9f979f8a442f0bab8322ba84fa553f329dc565570a62cd3a84e445f4b4880182f87',
+  ),
+);
